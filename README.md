@@ -20,5 +20,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact  
 
 If you have any questions or suggestions, feel free to reach out:  
-- **Email**: anahijuarez.rzqgmail.com 
-- **GitHub**: [your-username](https://github.com/your-usernameAnahiJuRa
+- **Email**: anahijuarez.rz@gmail.com 
+- **GitHub**: (https://github.com/your-usernameAnahiJuRa
